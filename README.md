@@ -13,7 +13,6 @@ SecureShare is a modern, privacy-focused file-sharing web application built with
 - 🧹 **Automated Background Cleanup**: Background cron purges expired files and DB records.
 - 📱 **QR Code Link Sharing**: Scan QR code to download directly on mobile devices.
 - 🎨 **Modern Dark Glassmorphic UI**: Built with Tailwind CSS, Space Grotesk & Plus Jakarta Sans typography.
-
 ---
 
 ## 📁 Project Structure
