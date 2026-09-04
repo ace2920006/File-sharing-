@@ -16,7 +16,6 @@ SecureShare is a modern, privacy-focused file-sharing web application built with
 ---
 
 ## 📁 Project Structure
-
 ```
 SecureShare/
 ├── client/                 # Vite + React Frontend
