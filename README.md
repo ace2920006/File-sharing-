@@ -3,7 +3,6 @@
 SecureShare is a modern, privacy-focused file-sharing web application built with **React, Express, Node.js, and MongoDB**. It enables anonymous, secure file uploads with AES-256-GCM encryption on disk, optional password locks, custom expiration timers, self-destruct download limits, and QR code sharing.
 
 ---
-
 ## ✨ Features
 
 - 🔒 **AES-256-GCM Disk Encryption**: Files are encrypted before being written to disk.
