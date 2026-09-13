@@ -12,9 +12,7 @@ SecureShare is a privacy-focused file sharing platform that allows users to secu
 Every uploaded file receives a unique, cryptographically secure URL that can optionally be protected with a password, download limits, and expiration dates.
 
 The application focuses on **simplicity, security, and privacy** while providing a modern user experience.
-
 ---
-
 # 🎯 Goals
 
 - No account required
