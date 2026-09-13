@@ -14,7 +14,6 @@ Every uploaded file receives a unique, cryptographically secure URL that can opt
 The application focuses on **simplicity, security, and privacy** while providing a modern user experience.
 ---
 # 🎯 Goals
-
 - No account required
 - Fast file uploads
 - Secure file storage
