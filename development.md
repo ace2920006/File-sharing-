@@ -3,7 +3,6 @@
 > **Project Type:** Full Stack Web Application
 > **Authentication:** ❌ No Login Required
 > **Status:** Planning
-
 ---
 
 # 📌 Project Overview
