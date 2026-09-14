@@ -177,7 +177,6 @@ SecureShare/
 ---
 
 # 🗄 Database Design
-
 ## File Model
 
 ```javascript
