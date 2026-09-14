@@ -3,7 +3,6 @@
 Build **SecureShare**, a privacy-focused, anonymous file-sharing platform according to the specifications in [development.md](file:///d:/DEMO%20PROJECT/pp4m/file%20secure%20share/File-sharing-/development.md). The application allows users to securely upload and share files without registering an account, featuring cryptographic tokens, optional password protection (bcrypt), AES-256-GCM server-side file encryption, download limits, expiration dates, automatic background cleanup, and a modern React UI with QR code generation.
 
 ---
-
 ## User Review Required
 
 > [!IMPORTANT]
