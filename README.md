@@ -1,6 +1,7 @@
 # 🛡 SecureShare - Privacy-Focused Encrypted File Sharing Platform[Still in Production]
 
 SecureShare is a modern, privacy-focused file-sharing web application built with **React, Express, Node.js, and MongoDB**. It enables anonymous, secure file uploads with AES-256-GCM encryption on disk, optional password locks, custom expiration timers, self-destruct download limits, and QR code sharing.
+
 ---
 ## ✨ Features
 
@@ -11,7 +12,9 @@ SecureShare is a modern, privacy-focused file-sharing web application built with
 - 🧹 **Automated Background Cleanup**: Background cron purges expired files and DB records.
 - 📱 **QR Code Link Sharing**: Scan QR code to download directly on mobile devices.
 - 🎨 **Modern Dark Glassmorphic UI**: Built with Tailwind CSS, Space Grotesk & Plus Jakarta Sans typography.
+- 
 ---
+
 ## 📁 Project Structure
 ```
 SecureShare/
