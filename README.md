@@ -4,6 +4,7 @@ SecureShare is a modern, privacy-focused file-sharing web application built with
 
 ---
 ## ✨ Features
+
 - 🔒 **AES-256-GCM Disk Encryption**: Files are encrypted before being written to disk.
 - 🔑 **Optional Password Locks**: Protect downloads with bcrypt-hashed passwords.
 - ⏳ **Custom Link Expiration**: Set expiration (1h, 6h, 24h, 7d, 30d, or never).
